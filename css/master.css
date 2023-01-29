@@ -12,7 +12,9 @@ body {
     --section-padding: 60px;
     --section-background: #f6f6f6;
     --main-duration: 0.5s;
+    scroll-behavior: smooth;
 }
+
 /*global role*/
 .special-heading {
     font-size: 100px;
